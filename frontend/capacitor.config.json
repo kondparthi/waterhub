@@ -1,0 +1,14 @@
+{
+  "appId": "com.mahavitech.waterhub",
+  "appName": "WaterHub",
+  "webDir": "dist",
+  "server": {
+    "url": "https://waterhub.mahavitech.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0b2530"
+  }
+}
